@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GeocoderTest",
+    "slug": "GeocoderTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "GeocoderTest"
+}
